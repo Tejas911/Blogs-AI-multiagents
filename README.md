@@ -1,1 +1,1 @@
-# YT-Blogs-AI
+# Blogs-AI
