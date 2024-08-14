@@ -1,5 +1,4 @@
 from crewai import Agent, Crew, Process
-from langchain_openai import ChatOpenAI
 from langchain_community.llms import Ollama
 from llms import llm
 from tasks import research_task, insights_task, writer_task, format_task
