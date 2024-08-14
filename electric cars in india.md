@@ -1,4 +1,4 @@
-```markdown
+
 ## The Electric Rise:  Charging Up India's Automotive Future 
 
 India is witnessing a fascinating shift in its automotive landscape.  While traditional petrol and diesel vehicles still rule the roads, a new contender is steadily gaining ground: the electric vehicle (EV). This change is particularly noticeable in the two-wheeler segment, but electric cars are also starting to make their mark.  So, what's driving this electric revolution in India?
@@ -18,4 +18,3 @@ While the allure of electric cars is undeniable, a significant hurdle remains: c
 ###  The Road Ahead:  A Greener Future
 
 The journey towards widespread EV adoption in India is a multifaceted one.  While challenges remain, the potential benefits are immense.  From reducing carbon emissions and improving air quality to decreasing reliance on fossil fuels, the shift towards electric mobility aligns with India's sustainable development goals. As battery technology continues to advance and charging infrastructure expands, electric cars are poised to play an increasingly significant role in shaping the future of transportation in India. 
-```
