@@ -21,7 +21,7 @@
 To get started, clone the repository:
 
 ```bash
-git clone [https://github.com/your-repository/Blogs-AI-MultiAgents.git](https://github.com/Tejas911/Blogs-AI-multiagents)
+git clone https://github.com/Tejas911/Blogs-AI-multiagents
 ```
 
 Navigate to the project directory:
